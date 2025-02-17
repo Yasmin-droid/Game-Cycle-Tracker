@@ -33,12 +33,17 @@ This tool was designed and developed by Yasmin Bzra, a 15-year-old competitor fr
 ## Usage
 **Starting a New Cycle:**
 Press the "Start Cycle" button to begin the cycle.
+
 Add in-game elements (such as "Add Algae" or "Add Coral L2") to finalize the cycle and score points.
+
 Alternatively, you can manually end the cycle by selecting "End Cycle".
+
 **Formatting:**
 Click the "Format" button to reset the game for a new session. This will clear current data and start a new game while saving the previous game’s data.
+
 **Data Tracking:**
 Each cycle’s duration is tracked and stored.
+
 The tool automatically logs the total number of cycles, elements collected, and points scored during each game.
 
 ## Setup
