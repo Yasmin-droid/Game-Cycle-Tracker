@@ -60,5 +60,5 @@ Feel free to fork the project and submit pull requests for improvements or new f
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Thanks for reading, enjoy your new tool!
+## Thanks for reading, enjoy your new tool!
 # Gracious Professionalism! Hey!
