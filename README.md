@@ -10,8 +10,11 @@ This app works seamlessly both online and offline, allowing users to track their
 
 ## Features:
 **Track Cycles:** Each cycle starts when the "Start Cycle" button is pressed and ends when an element is added (such as "Add Algae" or "Add Coral L2") or manually finished.
+
 **Scoring System:** Each element added corresponds to specific points, which are added to the total score of the cycle and game.
+
 **Time Tracking:** The duration of each cycle is tracked and stored. The total time of the game is limited to 2:15 minutes (135 seconds), at which point the data is transferred to the "Games" sheet.
+
 **Game Summary:** The "Games" sheet records:
 The number of the game
 The number of cycles
@@ -21,6 +24,7 @@ The average cycle duration
 The total number of elements collected
 The total points scored
 The game status ("Bad", "Average", or "Good" based on the number of elements collected)
+
 **Data Preservation:** Every time the game is formatted (using the "Format" button), previous data is saved along with the date and time of the formatting, ensuring no data is lost between sessions.
 
 ## Created by Yasmin Bzra:
