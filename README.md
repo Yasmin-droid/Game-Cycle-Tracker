@@ -16,14 +16,14 @@ This app works seamlessly both online and offline, allowing users to track their
 **Time Tracking:** The duration of each cycle is tracked and stored. The total time of the game is limited to 2:15 minutes (135 seconds), at which point the data is transferred to the "Games" sheet.
 
 **Game Summary:** The "Games" sheet records:
-The number of the game
-The number of cycles
-The time spent in each cycle
-The element that ended each cycle (or "error" if manually finished)
-The average cycle duration
-The total number of elements collected
-The total points scored
-The game status ("Bad", "Average", or "Good" based on the number of elements collected)
+1. The number of the game;
+2. The number of cycles;
+3. The time spent in each cycle;
+4. The element that ended each cycle (or "error" if manually finished);
+5. The average cycle duration;
+6. The total number of elements collected;
+7. The total points scored;
+8. The game status ("Bad", "Average", or "Good" based on the number of elements collected).
 
 **Data Preservation:** Every time the game is formatted (using the "Format" button), previous data is saved along with the date and time of the formatting, ensuring no data is lost between sessions.
 
